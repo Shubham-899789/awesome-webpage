@@ -17,7 +17,7 @@
         <ul>
             <li><a href="#section1">Section 1</a></li>
             <li><a href="#section2">Section 2</a></li>
-            <li><a href="https://www.example.com" target="_blank">External Link</a></li>
+            <li><a href="https://www.example.com" target="_blank">Visit Example.com</a></li>
         </ul>
     </nav>
 
@@ -26,7 +26,7 @@
         <section id="section1">
             <h2>Section 1</h2>
             <p>This is the first section of my awesome webpage.</p>
-            <img src="image1.jpg" alt="Image 1">
+            <img src="https://picsum.photos/400/300" alt="Placeholder for Image 1">
             <ul>
                 <li>Item 1</li>
                 <li>Item 2</li>
@@ -37,8 +37,8 @@
         <section id="section2">
             <h2>Section 2</h2>
             <p>This is the second section of my awesome webpage.</p>
-            <img src="image2.jpg" alt="Image 2">
-            <img src="image3.jpg" alt="Image 3">
+            <img src="https://picsum.photos/400/300" alt="Placeholder for Image 2">
+            <img src="https://picsum.photos/400/300" alt="Placeholder for Image 3">
             <ul>
                 <li>Item A</li>
                 <li>Item B</li>
